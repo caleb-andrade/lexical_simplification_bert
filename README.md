@@ -1,1 +1,1 @@
-# lexical_simplification_bert
+# lexical_simplification
